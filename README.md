@@ -18,12 +18,12 @@ Whether you're checking uptime, API performance, or project reliability — AOS 
 
 ## ✨ Highlights
 
-* 📡 Real-time system status monitoring
-* ⚙️ API and service uptime tracking
-* 📈 Historical uptime charts and analytics
-* 🔔 Incident and maintenance notifications
-* 🧩 Monitors all AOS live projects & APIs
-* 🌍 Publicly accessible and mobile-friendly
+- 📡 Real-time system status monitoring
+- ⚙️ API and service uptime tracking
+- 📈 Historical uptime charts and analytics
+- 🔔 Incident and maintenance notifications
+- 🧩 Monitors all AOS live projects & APIs
+- 🌍 Publicly accessible and mobile-friendly
 
 ---
 
@@ -62,9 +62,9 @@ Whether you're checking uptime, API performance, or project reliability — AOS 
 
 ## 🛠️ Recent Updates
 
-* ✅ All systems operational
-* 🚧 Maintenance completed on *Chatbot API (Nov 02, 2025)*
-* ⚡ Improved uptime monitoring integration with **Master API v3**
+- ✅ All systems operational
+- 🚧 Maintenance completed on _Chatbot API (Nov 02, 2025)_
+- ⚡ Improved uptime monitoring integration with **Master API v3**
 
 Stay updated via [status.ajayos.in](https://status.ajayos.in).
 
@@ -95,5 +95,4 @@ Information provided by AOS Status is for transparency and reliability monitorin
 
 ---
 
-> *Monitor. Maintain. Inform.*
-> **AOS Status — Real-Time Insights for the AOS Network**
+> _Monitor. Maintain. Inform._ > **AOS Status — Real-Time Insights for the AOS Network**
